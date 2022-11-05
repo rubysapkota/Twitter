@@ -37,8 +37,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![TwitterP2](https://user-images.githubusercontent.com/97801601/155576709-9fc062ce-26ab-4721-80b4-a84f5e26ca8c.gif)
+<img src= "https://user-images.githubusercontent.com/97801601/155576709-9fc062ce-26ab-4721-80b4-a84f5e26ca8c.gif" width="250" height="550"/>
 
 
