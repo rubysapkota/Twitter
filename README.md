@@ -7,8 +7,6 @@ This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 ## User Stories
 
-The following **required** functionality is completed:
-
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
 - [x] User can log in. (1pt)
 - [x] User can log out. (1pt)
@@ -20,7 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/97801601/154809306-acc01359-5c49-418d-910c-0b287dc6f443.gif)
+<img src= "https://user-images.githubusercontent.com/97801601/154809306-acc01359-5c49-418d-910c-0b287dc6f443.gif" width="250" height="550"/>
 
 
 ## Part II
